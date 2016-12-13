@@ -3,6 +3,8 @@
 *Machinegame bot* is a agressive bot to capture castles, with a white list.
 You need to copy to the code out of machinegame_bots.js into the solo or arena code area on the site.
 
+~ tofuink
+
 
 ## REQUIREMENTS
 
